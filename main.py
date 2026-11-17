@@ -15,7 +15,7 @@ from monitor import snapshot, rates
 class App(tk.Tk):
     def __init__(self):
         super().__init__()
-        self.title('보안관제Lite · 간단 버전 1.1')
+        self.title('보안관제Lite · 간단 버전 1.2')
         self.geometry('1100x590')
         self.minsize(820, 430)
         self.running = False
