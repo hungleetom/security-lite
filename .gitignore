@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+build/
+dist/
+work/
+*.spec
+smoke*.json
+.env
+.env.*
